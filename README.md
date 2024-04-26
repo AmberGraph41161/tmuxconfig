@@ -1,3 +1,3 @@
-as of, Wednesday, April 17, 2024, 21:48:14
+Personal tmux configuration as of Thursday, April 25, 2024, 22:53:16
 
-got rid of some old deprecated tmux config stuff I had copied and pasted from random places
+updated some of the right status bar stuff so it could fit onto a portrait mode screen. Why? because I was messing around with: https://github.com/ish-app/ish
